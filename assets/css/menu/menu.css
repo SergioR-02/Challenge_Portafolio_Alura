@@ -1,0 +1,17 @@
+.barra{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+}
+
+
+.menu{
+    background-color: #F2F2F2;
+}
+
+@media (max-width:425px) {
+    .menu{
+        padding: 0.5rem 1rem;
+    }
+    
+}
